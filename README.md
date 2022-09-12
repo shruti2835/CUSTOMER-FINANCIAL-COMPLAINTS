@@ -8,3 +8,6 @@ This is project is an analysis of financial complaints of customers in the US. T
 6) The most popular complaints submission medium is the Web. 361,338 complaints are registered through the web.
 7) According to the data, most of the complaints (550k) are resolved in a timely manner. 
 
+You can view the detailed analysis of this project by clicking on this link:
+https://public.tableau.com/app/profile/shruti.gaikwad4832/viz/USFINANCECUSTOMERCOMPLAINTS/Dashboard1?publish=yes
+
